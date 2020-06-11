@@ -6,6 +6,7 @@ body {
 
 p {
   line-height: 2;
+  font-size: 1rem;
 }
 
 hr {
@@ -36,6 +37,7 @@ h2 {
 }
 
 h3 {
+  font-size: 1.3rem;
   font-family: 'Montserrat', sans-serif;
   font-weight: bolder;
   text-decoration: underline;
@@ -47,6 +49,7 @@ a{
   font-family: 'Montserrat', sans-serif;
   margin: 10px 20px;
   text-decoration: none;
+  font-size: 1rem;
 }
 
 a:hover{
@@ -55,7 +58,7 @@ a:hover{
 
 .copyright{
   font-size: .88rem
-  padding: 20px 0;  
+  padding: 20px 0;
 }
 
 .intro-summary {
@@ -68,6 +71,7 @@ a:hover{
 }
 
 .h2-bottom {
+  font-size: 2.5rem;
   margin-bottom: 0;
 }
 
